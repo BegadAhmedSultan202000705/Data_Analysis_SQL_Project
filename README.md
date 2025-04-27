@@ -184,7 +184,7 @@ LIMIT 25
 
 **Core Data Tools** : While newer technologies are valued, foundational data analysis tools such as Jupyter, Pandas, NumPy, and PostgreSQL also continue to command strong salaries, with average salaries ranging from $125,000 to $151,000. This suggests that core technical skills remain essential in the data analyst role.
 
-![Top-Paying Skills](Assets\average_salary_skills_chart.png)
+![Top-Paying Skills](Assets/average_salary_skills_chart.png)
 
 ### 5.Optimal Skills
 
