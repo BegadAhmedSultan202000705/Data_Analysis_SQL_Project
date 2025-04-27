@@ -16,7 +16,7 @@ This capstone project marks the final milestone of a course I followed by [Luke 
     2. What are the skills required for these top-paying roles?
     3.What are the most in-demand skills for my role?
     4.What are the top skills based on salary for my role?
-    What are the most optimal skills to learn?
+    5.What are the most optimal skills to learn?
 
 # Tools I Used
 
