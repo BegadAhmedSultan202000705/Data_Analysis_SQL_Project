@@ -69,7 +69,7 @@ Here’s a snapshot of the highest-paying data analyst roles:
 
 **Variety in Job Titles:** Roles span from Data Analyst to Director of Analytics, showing the broad range of specializations and career paths within data analytics.
 
-![Top-Paying Roles](Assets\top_remote_data_analyst_jobs.png)
+![Top-Paying Roles](Assets/top_remote_data_analyst_jobs.png)
 
 ### 2.Skills Required for Top-Paying Jobs
 
@@ -117,7 +117,7 @@ ORDER BY
 **Cloud & Big Data Technologies**: Skills such as AWS, Azure, Snowflake, and Databricks indicate that these companies value cloud expertise and big data tools.
 
 **Other Key Tools**: Pandas, Jupyter, Git, and GitLab are also important for working with data and collaborating in software development or data projects.
-![Skills required for Top-Paying Jobs](Assets\top_skills_chart.png)
+![Skills required for Top-Paying Jobs](Assets/top_skills_chart.png)
 
 ### 3.In-Demand Skills
 
